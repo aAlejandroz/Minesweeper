@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper game 
+Minesweeper game created using Python
